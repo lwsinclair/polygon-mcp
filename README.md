@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dablclub-polygon-mcp-badge.png)](https://mseep.ai/app/dablclub-polygon-mcp)
+
 # Polygon MCP Server
 
 A Model Context Protocol (MCP) server that provides onchain tools for Claude AI, allowing it to interact with the Polygon PoS blockchain.
